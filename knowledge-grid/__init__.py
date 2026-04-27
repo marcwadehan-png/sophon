@@ -4,7 +4,7 @@
 提供对知识格子系统的统一访问
 
 使用示例：
-    from knowledge_cells import get_knowledge_system
+    from knowledge_grid import get_knowledge_system
     
     system = get_knowledge_system()
     

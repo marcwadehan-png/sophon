@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "memory-core"
-version = "1.0.0"
+version = "6.2.0"
 description = "Three-tier Memory Architecture - Sensory/Short-term/Long-term neural memory simulation"
 readme = "README.md"
 license = {text = "MIT"}

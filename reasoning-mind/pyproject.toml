@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "reasoning-mind"
-version = "1.0.0"
+version = "6.2.0"
 description = "Multi-paradigm Reasoning Engine - Integrating ancient and modern wisdom"
 readme = "README.md"
 license = {text = "MIT"}

@@ -2,6 +2,14 @@
 
 > 三层记忆架构 — 感官/短期/长期的神经记忆模拟
 
+<p align="center">
+
+[![Version](https://img.shields.io/badge/Version-6.2.0-orange.svg)](../CHANGELOG.md)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)
+
+</p>
+
 ## 特性
 
 - **三层记忆模型**: 感官记忆 → 短期记忆 → 长期记忆

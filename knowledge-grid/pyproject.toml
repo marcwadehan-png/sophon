@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "knowledge-grid"
-version = "1.0.0"
+version = "6.2.0"
 description = "Dynamic Knowledge Grid Engine - Adaptive knowledge node connection like a brain"
 readme = "README.md"
 license = {text = "MIT"}

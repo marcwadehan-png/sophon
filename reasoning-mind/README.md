@@ -2,6 +2,14 @@
 
 > 多范式推理引擎 — 融合古今中外的思维智慧
 
+<p align="center">
+
+[![Version](https://img.shields.io/badge/Version-6.2.0-orange.svg)](../CHANGELOG.md)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)
+
+</p>
+
 ## 特性
 
 - **10+种推理范式**: ReAct / Tree-of-Thought / CoT / Long-CoT / 阴阳推理等

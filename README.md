@@ -3,8 +3,15 @@
 > AI认知架构三件套 — 知识格子 / 推理引擎 / 记忆系统
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-6.2.0-orange.svg)](CHANGELOG.md)
+[![GitHub Stars](https://img.shields.io/github/stars/sophon-ai/sophon?style=social)](https://github.com/sophon-ai/sophon/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sophon-ai/sophon?style=social)](https://github.com/sophon-ai/sophon/network/members)
+[![Code Style](https://img.shields.io/badge/Code%20Style-black-000000.svg)](https://github.com/psf/black)
+[![Imports](https://img.shields.io/badge/imports-isort-yellow.svg)](https://github.com/PyCQA/isort)
+
 </p>
 
 ## 组件
