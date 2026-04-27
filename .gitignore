@@ -76,3 +76,6 @@ Desktop.ini
 
 # Test data
 memory-core/learning/test_*/
+
+# Git bundles
+*.bundle
