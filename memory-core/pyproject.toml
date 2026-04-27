@@ -12,14 +12,17 @@ requires-python = ">=3.10"
 authors = [
     {name = "Sophon Team", email = "team@sophon.ai"}
 ]
-keywords = ["memory", "ai", "neural", "learning", "cognition"]
+keywords = ["memory", "ai", "neural", "learning", "cognition", "hebbian-learning", "reinforcement-learning", "transfer-learning", "cognitive-architecture", "memory-system"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 
 dependencies = [

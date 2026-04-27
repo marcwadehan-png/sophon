@@ -1,0 +1,78 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sophon"
+version = "6.2.0"
+description = "Sophon — AI认知架构三件套：知识格子引擎 + 多范式推理系统 + 三层神经记忆"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Sophon Team", email = "team@sophon.ai"}
+]
+keywords = [
+    "ai",
+    "cognitive-architecture",
+    "knowledge-graph",
+    "reasoning-engine",
+    "memory-system",
+    "neural-network",
+    "wisdom-engine",
+    "agent-framework",
+    "multi-paradigm-reasoning",
+    "hebbian-learning",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+full = [
+    "knowledge-grid",
+    "reasoning-mind",
+    "memory-core",
+]
+dev = [
+    "pytest>=7.0",
+    "pytest-asyncio>=0.21",
+    "pytest-cov>=4.0",
+    "black",
+    "isort",
+]
+
+[project.urls]
+Homepage = "https://github.com/sophon-ai/sophon"
+Documentation = "https://github.com/sophon-ai/sophon#readme"
+Repository = "https://github.com/sophon-ai/sophon"
+Issues = "https://github.com/sophon-ai/sophon/issues"
+Changelog = "https://github.com/sophon-ai/sophon/blob/main/CHANGELOG.md"
+
+[tool.setuptools]
+packages = []
+
+[tool.pytest.ini_options]
+testpaths = ["knowledge-grid/tests", "reasoning-mind/tests", "memory-core/tests"]
+python_files = ["test_*.py"]
+asyncio_mode = "auto"
+
+[tool.black]
+line-length = 100
+target-version = ["py310", "py311", "py312", "py313"]
+
+[tool.isort]
+profile = "black"
+line_length = 100

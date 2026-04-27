@@ -12,14 +12,17 @@ requires-python = ">=3.10"
 authors = [
     {name = "Sophon Team", email = "team@sophon.ai"}
 ]
-keywords = ["reasoning", "ai", "wisdom", "cognition", "strategy"]
+keywords = ["reasoning", "ai", "wisdom", "cognition", "strategy", "multi-paradigm", "cognitive-architecture", "agent-framework", "react", "tree-of-thought", "chain-of-thought"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 
 dependencies = [
