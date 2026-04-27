@@ -132,4 +132,4 @@ MIT License - 详见各组件目录
 ## 联系
 
 - Issue: https://github.com/sophon-ai/sophon/issues
-- Email: team@sophon.ai
+- Email: marcwadehan@gmail.com
