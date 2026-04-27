@@ -155,7 +155,3 @@ MIT License - 详见各组件目录
 | 📦 Monorepo | 三个子包独立可用，也可组合为完整认知架构 |
 
 ## GitHub 仓库描述
-
-> **About（建议复制到 GitHub 仓库设置页）:**
->
-> `Sophon — AI认知架构三件套: 知识格子引擎 + 35学派多范式推理 + 三层神经记忆系统 | Knowledge Grid · Reasoning Mind · Memory Core`
